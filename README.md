@@ -1,7 +1,8 @@
 # Elsa Zhan (Shuqing Zhan) – Business Analyst Portfolio
 
 > Technical BA | 2+ years in enterprise software | HKUST MSc | IANG Visa ready  
-> 📍 Hong Kong · 📧 zhanshuqing0328@gmail.com · [LinkedIn](https://www.linkedin.com/in/elsazhan) · [GitHub](https://github.com/elsa123456789)
+> 📍 Hong Kong · 📧 zhanshuqing0328@gmail.com · [LinkedIn](https://www.linkedin.com/in/elsazhan) 
+<!-- · [GitHub](https://github.com/elsa123456789) -->
 
 ---
 
@@ -11,7 +12,7 @@
 |----------------|-----------|
 | 📊 **Data Science Projects** – Airbnb, Credit Suisse sentiment, coupon prediction, YouTube analytics | [`Intro Of Data Projects.md`](./Intro%20Of%20Data%20Projects.md) |
 | ⚙️ **ERP & Low‑Code Platform** – 50+ tables, 80+ APIs, inventory module design, UAT framework | [`Intro For My ERP Expirement.md`](./Intro%20For%20My%20ERP%20Expirement.md) |
-| 📄 **Full Resume** – Experience, skills, education, achievements | [`Elsa Zhan Resume`](./Elsa%20Zhan%20Resume%20-%20Business%20Analyst.md) (HTML version also available) |
+| 📄 **Full Resume** – Experience, skills, education, achievements | [`Elsa Zhan Resume`](./Elsa%20Zhan%20Resume%20-%20Business%20Analyst.md) (Markdown version here) |
 
 ---
 
@@ -23,11 +24,11 @@
 - **Coupon acceptance DNN** – 73.8% test accuracy, feature engineering + L1 regularisation  
 - **HKUST YouTube channel analysis** – Power BI dashboard, content strategy recommendations  
 
-### 🏭 Enterprise SaaS Low‑Code Platform
+### 🏭 Enterprise SaaS Platform
 - Designed core **inventory module**: 7 tables (product, warehouse, batch, stock, adjustment, transfer, loss)  
 - Contributed to **50+ database tables** and **80+ CRUD APIs** across 5 modules  
 - Wrote **400+ UAT test cases**, tracked **30+ critical defects** to closure  
-- Implemented FIFO allocation logic with full traceability  
+
 
 ---
 
@@ -36,7 +37,7 @@
 - **Business Analyst Trainee** @ FlexSystem – ERP requirements, DB design, API definition, UAT lead  
 - **Management Trainee** @ FlexSystem – WordPress rebuild (+50% traffic), AI‑enriched customer data (1,000+ records)  
 - **Data Product Manager Intern** @ CSMAR – product demos, user stories, teaching case studies  
-- **Technical stack**: SQL, Python (pandas), Power BI, low‑code platforms, LLM prompting (Gemini, ChatGPT, DeepSeek)  
+- **Technical stack**: SQL, Python (pandas), Power BI, low‑code platforms, LLM prompting (Gemini, ChatGPT, DeepSeek), JavaScript, HTML, CSS
 
 ---
 
@@ -48,7 +49,7 @@ MyPortfolio/
 ├── Intro Of Data Projects.md # Detailed data project descriptions
 ├── Intro For My ERP Expirement.md # Detailed ERP system design & testing
 ├── Elsa Zhan Resume - Business Analyst.md # Resume (Markdown)
-└── README.md # This file
+└── README.md # You are visting this file now.
 ```
 
 ---
@@ -67,6 +68,6 @@ All reports, code outputs, and images are included and can be downloaded directl
 
 - Email: [zhanshuqing0328@gmail.com](mailto:zhanshuqing0328@gmail.com)  
 - LinkedIn: [linkedin.com/in/elsazhan](https://www.linkedin.com/in/elsazhan)  
-- Portfolio link: [lnk.ink/elsazhan-portfolio](https://lnk.ink/elsazhan-portfolio)  
+- Google Portfolio link: [lnk.ink/elsazhan-portfolio](https://lnk.ink/elsazhan-portfolio)  
 
 *Open to Business Analyst / Product Analyst roles in Hong Kong – full‑time, IANG visa ready.*
