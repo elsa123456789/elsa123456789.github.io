@@ -1,4 +1,4 @@
-# Elsa Zhan (Shuqing Zhan) – Business Analyst Portfolio
+# Elsa Zhan – Business Analyst Portfolio
 
 > Technical BA | 2+ years in enterprise software | HKUST MSc | IANG Visa ready  
 > 📍 Hong Kong · 📧 zhanshuqing0328@gmail.com · [LinkedIn](https://www.linkedin.com/in/elsazhan) 
@@ -12,7 +12,7 @@
 |----------------|-----------|
 | 📊 **Data Science Projects** – Airbnb, Credit Suisse sentiment, coupon prediction, YouTube analytics | [`Intro Of Data Projects.md`](./Intro%20Of%20Data%20Projects.md) |
 | ⚙️ **ERP & Low‑Code Platform** – 50+ tables, 80+ APIs, inventory module design, UAT framework | [`Intro For My ERP Expirement.md`](./Intro%20For%20My%20ERP%20Expirement.md) |
-| 📄 **Full Resume** – Experience, skills, education, achievements | [`Elsa Zhan Resume`](./Elsa%20Zhan%20Resume%20-%20Business%20Analyst.md) (Markdown version here) |
+| 📄 **Full Resume** – Experience, skills, education, achievements | [`Elsa Resume`](./Elsa%20Zhan%20Resume%20-%20Business%20Analyst.md) (Markdown version here) |
 
 ---
 
@@ -68,6 +68,8 @@ All reports, code outputs, and images are included and can be downloaded directl
 
 - Email: [zhanshuqing0328@gmail.com](mailto:zhanshuqing0328@gmail.com)  
 - LinkedIn: [linkedin.com/in/elsazhan](https://www.linkedin.com/in/elsazhan)  
-- Google Portfolio link: [lnk.ink/elsazhan-portfolio](https://lnk.ink/elsazhan-portfolio)  
+- Portfolio link: 
+    - Google [lnk.ink/elsazhan-portfolio](https://lnk.ink/elsazhan-portfolio)  
+    - Github https://github.com/elsa123456789/Elsa-Zhan-Portfolio
 
 *Open to Business Analyst / Product Analyst roles in Hong Kong – full‑time, IANG visa ready.*
