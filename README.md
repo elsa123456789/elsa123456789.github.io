@@ -11,7 +11,7 @@
 |----------------|-----------|
 | 📊 **Data Science Projects** – Airbnb, Credit Suisse sentiment, coupon prediction, YouTube analytics | [`Intro Of Data Projects.md`](./Intro%20Of%20Data%20Projects.md) |
 | ⚙️ **ERP & Low‑Code Platform** – 50+ tables, 80+ APIs, inventory module design, UAT framework | [`Intro For My ERP Expirement.md`](./Intro%20For%20My%20ERP%20Expirement.md) |
-| 📄 **Full Resume** – Experience, skills, education, achievements | [`resume-v10-BusinessAnalyst.md`](./resume-v10-BusinessAnalyst.md) (HTML version also available) |
+| 📄 **Full Resume** – Experience, skills, education, achievements | [`Elsa Zhan Resume`](./Elsa%20Zhan%20Resume%20-%20Business%20Analyst.md) (HTML version also available) |
 
 ---
 
