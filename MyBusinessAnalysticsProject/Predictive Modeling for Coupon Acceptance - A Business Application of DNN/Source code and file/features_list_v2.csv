@@ -1,0 +1,42 @@
+,feature name,weight
+0,coupon_Restaurant less than 20,0.10663477
+1,coupon_Carry out & Take away,0.08839051
+2,expiration_2h,0.05030137
+3,passanger_Friend,0.04831827
+4,destination_No Urgent Place,0.04466039
+5,CoffeeHouse,0.0434354
+6,coupon_Coffee House,0.042787958
+7,direction_same_1,0.038424704
+8,toCoupon_GEQ15min_1,0.034722745
+9,weather_Sunny,0.03458943
+10,time_6PM,0.03319958
+11,passanger_Kid,0.026799973
+12,time_7AM,0.026494423
+13,maritalStatus_Married partner,0.025286244
+14,Bar,0.02361383
+15,education_Graduate degree (Masters or Doctorate),0.023276335
+16,maritalStatus_Unmarried partner,0.021241348
+17,Restaurant20To50,0.01904352
+18,maritalStatus_Single,0.01810334
+19,education_Some college - no degree,0.017373592
+20,coupon_Restaurant between 20 and 50,0.015972802
+21,education_Bachelors degree,0.015763156
+22,CarryAway,0.01569762
+23,income,0.015429059
+24,gender_Male,0.015339193
+25,time_2PM,0.014566495
+26,age,0.014498412
+27,has_children_1,0.013602141
+28,occupation_Unemployed,0.013082711
+29,occupation_Student,0.012900742
+30,RestaurantLessThan20,0.012362647
+31,time_10PM,0.0109228175
+32,occupation_Computer & Mathematical,0.010697069
+33,passanger_Partner,0.009232256
+34,temperature,0.00916991
+35,occupation_Sales & Related,0.00774922
+36,occupation_Education&Training&Library,0.0074505857
+37,weather_Snowy,0.006838012
+38,toCoupon_GEQ25min_1,0.006535425
+39,education_High School Graduate,0.0031490678
+40,occupation_Management,0.0023429873
